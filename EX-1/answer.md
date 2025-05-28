@@ -16,4 +16,5 @@ Just calling a function directly: It wouldn't start server or listen on port and
 Q5. How can the server be made more resilient to such errors during development?
 ->
 _ Use try-catch block around request handler for runtime error
-_ 
+_ Add a global error-handling middleware
+_ Validate user input to avoid bad data.
