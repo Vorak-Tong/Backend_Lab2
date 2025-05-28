@@ -17,3 +17,4 @@ _ Adding, updating or removing routes can get error-prone(miss return statement,
 ->
 _ Cleaner and more organized route
 _ Easier error handling and debugging
+_ Better code readability and maintainablity
